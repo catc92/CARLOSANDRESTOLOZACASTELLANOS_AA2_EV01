@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "SRC"
+    ],
+    "java.project.outputPath": "bin",
+    // LÍNEA CRÍTICA: Le indica al proyecto dónde están los archivos JAR
+    "java.project.referencedLibraries": [
+        "d:\\USER\\OneDrive\\Desktop\\CARLOSANDRESTOLOZACASTELLANOS_AA2_EV01\\LIB\\postgresql-42.2.29.jre7.jar",
+        "d:\\USER\\OneDrive\\Desktop\\CARLOSANDRESTOLOZACASTELLANOS_AA2_EV01\\lib\\postgresql-42.7.8.jar"
+    ]
+}
